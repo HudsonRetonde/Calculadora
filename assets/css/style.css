@@ -87,3 +87,15 @@ form button:hover {
   background-image: linear-gradient(to right, #FF512F 0%, #DD2476  51%, #FF512F  100%);;
   color: yellow;
 }
+
+#operadores {
+  background-image: #61045F;
+}
+
+#especiais {
+  background-color: #DD2476;
+}
+
+#igual {
+  background-color: rgb(1, 137, 137);
+}
